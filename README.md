@@ -8,8 +8,7 @@
 
 ---
 
-### 🎓 Education
-**Masters in Computer Science**  
+### 🎓 Education 
 **Institute of Space Technology (IST), Islamabad**  
 📅 *2023 – Continue*  
 🎯 **Current CGPA:** 3.4 / 4.0  
