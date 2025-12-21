@@ -12,6 +12,7 @@
 
  🎓 Education 
 Institute of Space Technology (IST), Islamabad (Kicsit)
+
 📅 2023 – Continue 
 
 🎯 Current CGPA: 3.38 / 4.0  
@@ -19,7 +20,7 @@ Institute of Space Technology (IST), Islamabad (Kicsit)
 
 
  💻 Skills
-Programming Languages:** Python, C, C++, Java, HTML, CSS  
+Programming Languages:Python, C, C++, Java, HTML, CSS  
 
 Development Environments: VS Code, Android Studio, GitHub, Overleaf, Jupyter Notebook  
 
