@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hifza Bibi</h1>
+<h1 align="center">Hi there 👋 I'm Hifza Bibi</h1>
 <h3 align="center">App Developer | Machine Learning | Web Development</h3>
 
 <p align="center">
@@ -10,30 +10,30 @@
 
 ---
 
-### 🎓 Education 
-**Institute of Space Technology (IST), Islamabad**  
-📅 *2023 – Continue 
+ 🎓 Education 
+Institute of Space Technology (IST), Islamabad (Kicsit)
+📅 2023 – Continue 
 
-🎯 **Current CGPA: 3.38 / 4.0  
+🎯 Current CGPA: 3.38 / 4.0  
 
----
 
-### 💻 Skills
-**Programming Languages:** Python, C, C++, Java, HTML, CSS  
 
-**Development Environments:** VS Code, Android Studio, GitHub, Overleaf, Jupyter Notebook  
+ 💻 Skills
+Programming Languages:** Python, C, C++, Java, HTML, CSS  
 
-**Operating Systems:** Windows, Linux (Ubuntu)  
+Development Environments: VS Code, Android Studio, GitHub, Overleaf, Jupyter Notebook  
 
----
+Operating Systems: Windows, Linux (Ubuntu)  
 
-### 🔬 Research Interests
+
+
+ 🔬 Research Interests
 - Artificial Intelligence (AI)  
 - Machine Learning  
 
----
 
-### 📈 GitHub Stats
+
+ 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hifza-g&show_icons=true&theme=rose_pine" alt="Hifza's GitHub stats" />
 
