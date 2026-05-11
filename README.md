@@ -15,7 +15,7 @@ Institute of Space Technology (IST), Islamabad (Kicsit)
 
 📅 2023 – Continue 
 
-🎯 Current CGPA: 3.38 / 4.0  
+🎯 Current CGPA: 3.34 / 4.0  
 
 
 
